@@ -23,7 +23,7 @@ function App() {
       <header className="bg-indigo-800">
         <div className="flex items-center justify-center h-20 md:container md:mx-auto">
           <h2 className="text-white text-2xl text-center font-semibold">
-            ReactJS Slider
+           Playground/ReactJS Slider
           </h2>
         </div>
       </header>

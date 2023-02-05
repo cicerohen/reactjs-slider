@@ -15,7 +15,8 @@ export const PrevButton = ({ height, onClick }: Props) => {
       }}
     >
       <button
-        className="text-white p-2  rounded-r-lg bg-gray-800/20 hover:bg-gray-800/80"
+        aria-label="Previous slide"
+        className="text-white p-2 rounded-r-lg bg-gray-800/20 hover:bg-gray-800/80"
         onClick={onClick}
       >
         <ArrowLeftIcon className="h-6 w-6" />

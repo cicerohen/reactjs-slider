@@ -16,6 +16,7 @@ export const NextButton = ({ height, onClick }: Props) => {
       }}
     >
       <button
+        aria-label="Next slide"
         className="text-white p-2  rounded-l-lg bg-gray-800/20 hover:bg-gray-800/80"
         onClick={onClick}
       >
