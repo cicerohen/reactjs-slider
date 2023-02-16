@@ -22,7 +22,7 @@ export const Slider = ({
 
   const onNextButtonClick = () => {
     setIndex((prev) => {
-      return Math.min(prev + 1, (items?.length || 0) - 1);
+      return Math.min(prev + 1, items.length - 1);
     });
   };
 
