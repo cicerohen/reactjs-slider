@@ -1,8 +1,6 @@
-# Playground ReactJS Slider
+# ReactJS Slider
 
 A simple slider created with ReactJS and TailwindCSS
-
-[Click here to see more examples](https://github.com/cicerohen/playground)
 
 ### Development
 
